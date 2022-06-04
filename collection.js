@@ -1,0 +1,214 @@
+const library=[{
+    burl:"https://drive.google.com/file/d/1fmq7Abb7apeajOmwgD4rIMgNKTZk8JFs/view?usp=sharing",
+    poster:require("./books/bookno1/How-to-Analyze-People-on-Sight-Elsie-Lincoln-Benedict-and-Ralph-Paine-Benedict-94x144.jpg")
+},
+{
+    burl:"https://drive.google.com/file/d/15LKmkBf2-dRCRZWQo1Y-J_eaa990CE5D/view?usp=sharing",
+    poster:require("./books/bookno2/Pride-and-Prejudice-Jane-Austen.jpg")
+},
+{
+    burl:"https://drive.google.com/file/d/1hP9Aqrp0vGUpKOTXYnFkkHEq4_gZLfvf/view?usp=sharing",
+    poster:require("./books/bookno3/Adventures-of-Sherlock-Holmes-Sir-Arthur-Conan-Doyle-94x144.jpg")
+},
+{
+    burl:"https://drive.google.com/file/d/1hc0ejcyXT9b952aqZHgIX1rTZqeC-Vpk/view?usp=sharing",
+    poster:require("./books/bookno4/28-Days-To-Success-Tommy-Macken-94x144.jpg")
+},
+{
+    burl:"https://drive.google.com/file/d/13zrHinWOZY5SaYzDhbvhCPs77deFAFea/view?usp=sharing",
+    poster:require("./books/bookno5/Love-Letters-Bryan-Mooney-94x144.jpg")
+},
+{
+    burl:"https://drive.google.com/file/d/1E0QFDKQUITAE_UHkd9ff6u8YoL3jNkKW/view?usp=sharing",
+    poster:require("./books/bookno6/100-Top-Fitness-Tips-home-gym-health-exercise.com_.jpg")
+}
+,
+{
+    burl:"https://drive.google.com/file/d/1aWujiz5KypPOizETsycCU7E2Sn6a7PuU/view?usp=sharing",
+    poster:require("./books/bookno7/War-and-Peace-Graf-Leo-Tolstoy.jpg")
+}
+,
+{
+    burl:"https://drive.google.com/file/d/1Cb_RjsB1iy1tIycYy1CKvGzGBbuY7p1T/view?usp=sharing",
+    poster:require("./books/bookno8/girl-named-willow-krimble-94x144.jpg")
+},
+{
+    burl:"https://drive.google.com/file/d/1yMGbJHTImuScspOindKcdugGkBkmzaa-/view?usp=sharing",
+    poster:require("./books/bookno9/Bible-Old-and-New-Testaments-King-James-Version-Various-Authors.jpg")
+},
+{
+    burl:"https://drive.google.com/file/d/1B0MVcT4yxMw2I7TOjyOfuSNwtYjEhaGg/view?usp=sharing",
+    poster:require("./books/bookno10/Myths-and-Legends-of-Ancient-Greece-And-Rome-E-M-Berens-94x144.jpg")
+}
+,
+{
+    burl:"https://drive.google.com/file/d/1W6JpTIyHQxRAX0NAc0LyqSSOKagCtKcS/view?usp=sharing",
+    poster:require("./books/bookno11/Abraham-Lincoln-James-Russell-Lowell-94x144.jpg")
+}
+,
+{
+    burl:"https://drive.google.com/file/d/1kAZyoVJnBzn3Q4NYOl2CSHAWOaC_zHtP/view?usp=sharing",
+    poster:require("./books/bookno12/Time-Machine-H-G-Wells-94x144.jpg")
+},
+{
+    burl:"https://drive.google.com/file/d/1XTStWTW365HxqogD2QCRj24FWoYyDTs6/view?usp=sharing",
+    poster:require("./books/bookno13/the-creatures-that-history-forgot.jpg")
+},
+{
+    burl:"https://drive.google.com/file/d/1U-gadEPkdQys31D2AOqwgTUQhNwqb6rG/view?usp=sharing",
+    poster:require("./books/bookno14/10-Things-You-MUST-Do-to-Get-a-Great-Body-Josh-Owen.jpg")
+},
+{
+    burl:"https://drive.google.com/file/d/1_SrBzNA1_7u9ILogImz1ughMOJt9cDI5/view?usp=sharing",
+    poster:require("./books/bookno15/Adventures-of-Huckleberry-Finn-Mark-Twain.jpg")
+},
+{
+    burl:"https://drive.google.com/file/d/1j8vJM3VqiULVZYhgF-xrwihJQpN7oqKS/view?usp=sharing",
+    poster:require("./books/bookno16/Autobiography-of-Charles-Darwin.jpg")
+},
+{
+    burl:"https://drive.google.com/file/d/1k2efjfiaXfWUHFBLpj1UfUguA1mhT-jG/view?usp=sharing",
+    poster:require("./books/bookno17/encounter_with_jesus_christ_end_of_time_warnings-regina_clarinda-157x209.jpg")
+},
+{
+    burl:"https://drive.google.com/file/d/1dmHHxsqUN6YPuAC0uA-7-No4IwKiFsW4/view?usp=sharing",
+    poster:require("./books/bookno18/Grimms-Fairy-Tales-Jacob-Grimm-and-Wilhelm-Grimm.jpg")
+},
+{
+    burl:"https://drive.google.com/file/d/12lz9AHV3ctkpscdI9bL1fsEQGytQsNEz/view?usp=sharing",
+    poster:require("./books/bookno19/Top_Ten_Selling_The_Lumberjack_Chronicles_by_Dan_N-157x209.jpg")
+},
+{
+    burl:"https://drive.google.com/file/d/1fh6oZJEKMVtf_N8sEXMwNlsvRhHpWj2T/view?usp=sharing",
+    poster:require("./books/bookno20/attractions-joshua_edward_smith-149x239.jpg")
+},
+{
+    burl:"https://drive.google.com/file/d/1-iFS5LfIxsrZ15F5xqSovkNwDvBoeELM/view?usp=sharing",
+    poster:require("./books/bookno21/Princess-of-Mars-Edgar-Rice-Burroughs.jpg")
+},
+{
+    burl:"https://drive.google.com/file/d/18ydK6oUw9TNLKpbA6KvuYjYZzHrJ0ob2/view?usp=sharing",
+    poster:require("./books/bookno22/Prince-Niccolo-Machiavelli.jpg")
+},
+{
+    burl:"https://drive.google.com/file/d/1IhzsCCii47WBnDhxcRZHN-r4t-dPy8WR/view?usp=sharing",
+    poster:require("./books/bookno23/the_price_of_innocence-vicki_hopkins-147x239.jpg")
+},
+{
+    burl:"https://drive.google.com/file/d/1PwPAISp4WcLQ1InaUDmu956Sjue0Cu7B/view?usp=sharing",
+    poster:require("./books/bookno24/women-in-love--157x227.jpg")
+},
+{
+    burl:"https://drive.google.com/file/d/1PaQKDoPLSIV_WnnlHRRNYe9fX4UgGEM4/view?usp=sharing",
+    poster:require("./books/bookno25/The-Republic-Plato.jpg")
+},
+{
+    burl:"https://drive.google.com/file/d/1l7ogIUwsHJzvYZuDfik6g5nrljZlyMHi/view?usp=sharing",
+    poster:require("./books/bookno26/beast-of-revelation-155x239.jpg")
+}
+,
+{
+    burl:"https://drive.google.com/file/d/1CMpcq6oK-M2U2VkfoT_ZHXOPnsSYhmjX/view?usp=sharing",
+    poster:require("./books/bookno27/How-To-Break-Into-Your-Destiny-And-Solve-Stubborn-Problems-Moses-Ojute-157x235.jpg")
+}
+,
+{
+    burl:"https://drive.google.com/file/d/11lxL8v4m-sA1keG-81T67jDKhvJu22KT/view?usp=sharing",
+    poster:require("./books/bookno28/What-About-Love-157x239.jpg")
+},
+{
+    burl:"https://drive.google.com/file/d/1rfdHgb8aa4v3DXxrK4h2QTy2ELqqnLPw/view?usp=sharing",
+    poster:require("./books/bookno29/finding_your_power_to_be_happy-d_e_hardesty-157x236.jpg")
+},
+{
+    burl:"https://drive.google.com/file/d/1lOhoXUjY5C-4bUbfUGU9_DZnIxLbHREr/view?usp=sharing",
+    poster:require("./books/bookno30/gifts-with-no-giver-nirmala-157x232.jpg")
+}
+,
+{
+    burl:"https://drive.google.com/file/d/1S9eE4wHAOFCy_QJ5tm3PUN4DHuWlDzJH/view?usp=sharing",
+    poster:require("./books/bookno31/radiance-157x229.jpg")
+}
+,
+{
+    burl:"https://drive.google.com/file/d/15A_c9iixtOWUxA1c1ZdRuRZa9tR672DX/view?usp=sharing",
+    poster:require("./books/bookno32/alice-alice-in-wonderland-157x200.jpg")
+},
+{
+    burl:"https://drive.google.com/file/d/1ztpUtSE0056Ecjft9js877nbnQYNlYqb/view?usp=sharing",
+    poster:require("./books/bookno33/the_seventh_sin-william_bott-157x236.jpg")
+},
+{
+    burl:"https://drive.google.com/file/d/1th8JwSsFxnQTLaGMHNnAW8wLKhUvE8Zu/view?usp=sharing",
+    poster:require("./books/bookno34/how-to-live-on-24-hours-a-day-157x235.jpg")
+},
+{
+    burl:"https://drive.google.com/file/d/1wyIOpuuZECiZO0N9lpdeY3wUy_OMh2jw/view?usp=sharing",
+    poster:require("./books/bookno35/Revelation-of-Saint-John-Saint-John-The-Apostle.jpg")
+},
+{
+    burl:"https://drive.google.com/file/d/1tclpcxuzSsqgocqiYmNSlRfPqCFTHiFP/view?usp=sharing",
+    poster:require("./books/bookno36/why_we_must_fight-darrell_c_porter-157x203.jpg")
+},
+{
+    burl:"https://drive.google.com/file/d/1K5GXR-CLQxaMTi9pFPM39iOhrxP0p2eq/view?usp=sharing",
+    poster:require("./books/bookno37/the_prosperity_trap-angelena_jackson-157x180.png")
+},
+{
+    burl:"https://drive.google.com/file/d/1pptYtMZSfWsx43QpJSyA2Wo7-sjnXVkI/view?usp=sharing",
+    poster:require("./books/bookno38/how-to-make-heaven-eliminating-caricature-making-the-path-straight-157x235.jpg")
+},
+{
+    burl:"https://drive.google.com/file/d/1mEBNeoohKOfdUwA6cCf_9TYj0OWal4eS/view?usp=sharing",
+    poster:require("./books/bookno39/Metamorphosis-Franz-Kafka.jpg")
+},
+{
+    burl:"https://drive.google.com/file/d/102o1NpnZd7AixLskKOLltbrC7FJA-O_S/view?usp=sharing",
+    poster:require("./books/bookno40/Ulysses-James-Joyce.jpg")
+}
+,
+{
+    burl:"https://drive.google.com/file/d/190N26TofGaruHfq1c-205MkzjoiV994N/view?usp=sharing",
+    poster:require("./books/bookno41/conquer_essay_phobia-natalie_andersen-149x239.jpg")
+}
+,
+{
+    burl:"https://drive.google.com/file/d/1zsoyftlxiNXQ0P55abp0UaLfPl0qNs3n/view?usp=sharing",
+    poster:require("./books/bookno42/SDM-Self-151x239.png")
+},
+{
+    burl:"https://drive.google.com/file/d/1AO7uh43-1FBaReSg5TPhPwdn136vgytE/view?usp=sharing",
+    poster:require("./books/bookno43/be_happier_in_one_hour-d_e_hardesty-157x236.jpg")
+},
+{
+    burl:"https://drive.google.com/file/d/1LrJnPhYOZnD4dfpkKlGGeG0Qhb_iVCpq/view?usp=sharing",
+    poster:require("./books/bookno44/peter-pan-148x239.jpg")
+},
+{
+    burl:"https://drive.google.com/file/d/1iVoN_D5Q2QNqDyPQltOSc59UPSIK472h/view?usp=sharing",
+    poster:require("./books/bookno45/in_my_head-alicia_rades-157x236.jpg")
+},
+{
+    burl:"https://drive.google.com/file/d/10cELgsCBDQsRyjvYXkgtFJQHHGNLp0l2/view?usp=sharing",
+    poster:require("./books/bookno46/princess_rose_and_the_golden_bird-sergey_nikolov-157x224.jpg")
+},
+{
+    burl:"https://drive.google.com/file/d/15QwqGFxBw5Oqa4_WRXcpEot4vMWNcoFG/view?usp=sharing",
+    poster:require("./books/bookno47/dying_for_a_living-kory_m_shrum-151x239.jpg")
+},
+{
+    burl:"https://drive.google.com/file/d/1yBnqESUAiXz6Gum-prgTq0izzpp11JZW/view?usp=sharing",
+    poster:require("./books/bookno48/olive_branches-dont_grow_on_trees-grace_mattioli-149x239.jpg")
+},
+{
+    burl:"https://drive.google.com/file/d/1ThgUQLDW1pPzkv5tzmqisYwP0icnyoEv/view?usp=sharing",
+    poster:require("./books/bookno49/handcuffs_and_high_heels_a_ruby_wisdom_mystery-j_m_edwards-157x203.jpg")
+},
+{
+    burl:"https://drive.google.com/file/d/1N3vowoUrU8dZ3QoYd73q-_ahDviAP1RY/view?usp=sharing",
+    poster:require("./books/bookno50/be_good-f_r_johnson-157x157.png")
+}
+]
+
+
+export default  library
